@@ -1,4 +1,4 @@
 1.git init //to initialize *after this step git will create a local .git folder to track the changes locally.
 2.git status //to know the status 
 3.git add file_name //to add file to local repo * this step call staging means our files are ready to commit.
-4.
+4.git commit // now enter commit message  and press ESC and :wq to exit

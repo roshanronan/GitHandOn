@@ -4,4 +4,5 @@
 4.git commit // now enter commit message in vim screen and press ESC and :wq to exit
 5.git commit -m "change commit" //to commit changes without using vim screen
 6.git log // to know commit history of project
-7.
+7.git branch branch_name //to create a branch of main project
+8.git checkout branch_name //to move in new branch

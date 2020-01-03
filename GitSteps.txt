@@ -6,3 +6,10 @@
 6.git log // to know commit history of project
 7.git branch branch_name //to create a branch of main project
 8.git checkout branch_name //to move in new branch
+9.created a file in branch for test
+10.git merge branch_name //make sure you are in master branch or in brach where you want to merge this branch
+11.git remote // to list down our remotes
+12. git clone url_of_remote_repo //to create a copy
+13.git commit -a -m "commit_message" //here we dont need to add but for new untracked file we need to use add command
+14.git remote //to check the remote
+15.git push origin master //to push remote
